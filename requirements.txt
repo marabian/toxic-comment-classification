@@ -1,3 +1,6 @@
+wheel
+setuptools
+jupyterthemes
 argon2-cffi==20.1.0
 async-generator==1.10
 attrs==20.2.0
@@ -48,3 +51,8 @@ traitlets==4.3.3
 wcwidth==0.2.5
 webencodings==0.5.1
 zipp==3.2.0
+pandas
+seaborn
+scikit-learn
+nltk
+tensorflow
