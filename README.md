@@ -11,12 +11,15 @@ and recurrent neural networks. We will also use pretrained word embeddings to im
 ## How to replicate
 Download the data from [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).
 
-Open the notebook file using Jupyter, or with Google Colab.
+Open the notebook file using Jupyter Notebook, or with Google Colab.
 
+## Deployment Ideas
+Build a simple front-end with a text box which takes in raw text as input, and classifies the text. Use Flask server running on a Docker container to host the app. Consider ECS Fargate containers for deployment.
 
 ## Resources
 https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-learning-with-weight-regularization/
 https://machinelearningmastery.com/how-to-reduce-overfitting-with-dropout-regularization-in-keras/
 https://danijar.com/tips-for-training-recurrent-neural-networks/
 https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
+https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5
 https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
