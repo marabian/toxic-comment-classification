@@ -24,6 +24,7 @@ Build a simple front-end with a text box which takes in raw text as input, and c
 ## Resources
 https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-learning-with-weight-regularization/
 https://machinelearningmastery.com/how-to-reduce-overfitting-with-dropout-regularization-in-keras/
+
 https://danijar.com/tips-for-training-recurrent-neural-networks/
 https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
 https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5
