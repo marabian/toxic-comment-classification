@@ -19,7 +19,7 @@ Open the notebook file using Jupyter Notebook, or with Google Colab.
 * Dropout and Recurrent Dropout
 
 ## Ideas for deployment
-Build a simple front-end with a text box which takes in raw text as input, and classifies the text; and outputs level of toxicity (or non-toxic). Use Flask server running on a Docker container to host the app. Consider ECS Fargate containers for deployment.
+Build a simple front-end with a text box which takes in raw text as input, and classifies the text; and outputs level of toxicity (or non-toxic). Use Flask server running on a Docker container to host the app. Consider ECS Fargate container or AWS Lambda for deployment.
 
 ## Resources
 
