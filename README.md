@@ -13,7 +13,7 @@ Download the data from [here](https://www.kaggle.com/c/jigsaw-toxic-comment-clas
 
 Open the notebook file using Jupyter Notebook, or with Google Colab.
 
-## Deployment Ideas
+## Ideas for deployment
 Build a simple front-end with a text box which takes in raw text as input, and classifies the text. Use Flask server running on a Docker container to host the app. Consider ECS Fargate containers for deployment.
 
 ## Resources
