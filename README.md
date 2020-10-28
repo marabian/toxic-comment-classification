@@ -22,10 +22,10 @@ Open the notebook file using Jupyter Notebook, or with Google Colab.
 Build a simple front-end with a text box which takes in raw text as input, and classifies the text; and outputs level of toxicity (or non-toxic). Use Flask server running on a Docker container to host the app. Consider ECS Fargate containers for deployment.
 
 ## Resources
-https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-learning-with-weight-regularization/
-https://machinelearningmastery.com/how-to-reduce-overfitting-with-dropout-regularization-in-keras/
 
-https://danijar.com/tips-for-training-recurrent-neural-networks/
-https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
-https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5
-https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
+https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-learning-with-weight-regularization/ <br>
+https://machinelearningmastery.com/how-to-reduce-overfitting-with-dropout-regularization-in-keras/ <br>
+https://danijar.com/tips-for-training-recurrent-neural-networks/ <br>
+https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17 <br>
+https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5 <br>
+https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff <br>
